@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ninjaboi-00
+- 👀 I’m interested in improving my skills at programming!
+- 🌱 I’m currently learning java to start making GUI apps.
+- 💞️ I’m looking to collaborate on various programmers with any skill level to improve together.
+- 📫 How to reach me ...
